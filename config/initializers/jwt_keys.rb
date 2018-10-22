@@ -1,0 +1,1 @@
+HMAC_SECRET = 'XZ8Qd2P^Jwpd*EH6Tyh%lBF8F4dxhFYS%eF9l^&h$PU4*1qG@Hgezj9Q#spa'
